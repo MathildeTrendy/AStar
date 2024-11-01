@@ -32,18 +32,19 @@ The **A* (A-star) Algorithm** is widely used in applications like game developme
    ```bash
    git clone https://github.com/your-username/astar-visualization.git
 
-🕹️ How to Use
-Set Start and Goal
+## 🕹️ How to Use
 
-Click on any grid cell to mark it as the start.
-Click on another cell to mark it as the goal.
-Add Obstacles
+### Set Start and Goal
+- Click on any grid cell to mark it as the **start** point (displayed in red).
+- Click on another cell to mark it as the **goal** point (displayed in green).
 
-Click other cells to place obstacles (grey cells) that the pathfinding algorithm will navigate around.
-Run the Algorithm
+### Add Obstacles
+- Click on other cells to place **obstacles** (displayed in grey) that the algorithm will navigate around.
 
-Click Start to see the A* algorithm find the shortest path.
-Click Restart to clear the grid and start over.
+### Run the Algorithm
+- Click **Start** to see the A* algorithm in action, finding the shortest path from the start to the goal.
+- Click **Restart** to clear the grid and start a new pathfinding session.
+
 
 ## 📁 File Structure
 The project consists of the following files:
