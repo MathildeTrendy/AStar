@@ -44,8 +44,12 @@ Run the Algorithm
 
 Click Start to see the A* algorithm find the shortest path.
 Click Restart to clear the grid and start over.
-📁 File Structure
-index.html: The main HTML page.
-js/button.js: Handles button interactions.
-js/grid.js: Manages the grid and cell properties.
-js/main.js: Implements the A* algorithm logic and controls the visualization.
+
+## 📁 File Structure
+The project consists of the following files:
+
+```plaintext
+index.html              
+button.js           
+grid.js             
+main.js             
